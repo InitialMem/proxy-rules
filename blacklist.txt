@@ -1,0 +1,7 @@
+127.0.0.1
+::1
+localhost
+*bing.com
+*.192.168.128*
+*.baidu.com
+*.jd.com
